@@ -1,10 +1,7 @@
 ---
 layout: post
-title: ADO.NET
+title: [Info Capsule] ADO.NET
 ---
-
-# ADO.NET
-
 ADO.NET is developed by Microsoft in order to interact with different database engines. 
 
 Basic flow for creating and executing queries with every engine is defined below
