@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Info Capsule] ADO.NET
+title: ADO.NET
 ---
 
 # ADO.NET
