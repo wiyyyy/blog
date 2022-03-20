@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Info Capsule] ADO.NET
+title: Info Capsule - ADO.NET
 ---
 ADO.NET is developed by Microsoft in order to interact with different database engines. 
 
