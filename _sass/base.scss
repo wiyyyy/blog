@@ -141,9 +141,8 @@ dt {
   font-weight: bold;
 }
 
-ul li:before
-{
-    content: '»';   /* any design */
+ul li {
+  list-style-image:url('../assets/bullet.png');
 }
 
 blockquote {
