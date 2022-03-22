@@ -73,9 +73,9 @@ After you press "Start Swarming" button load test operation will be started.
 > 
 After you pressed "Start Swarming" you should see load test is started and request per seconds values are calculated. There is also nice charts in the charts tab. You should definitely check that it provides nice information about your load testing process. 
 
-![]({{ site.url }}/assets\post_assets\locust\locust2.png)
+![]({{ site.baseurl }}/assets\post_assets\locust\locust2.png)
 
-![]({{ site.url }}./assets\post_assets\locust\locust3.png)
+![]({{ site.baseurl }}./assets\post_assets\locust\locust3.png)
 
 ## Conclusion
 
