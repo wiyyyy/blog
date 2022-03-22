@@ -59,7 +59,7 @@ For starting load test you need to execute command line below from ``locust_firs
 
 After successfully started from command line and navigate to http://localhost:8089 you should see the screen below. 
 
-![]({{ site.url }}/assets\post_assets\locust\locust1.png)
+![]({{ site.baseurl }}/assets\post_assets\locust\locust1.png)
 
 Number of users -> means that how many parallel operations you want to create for load tests. 
 
@@ -75,7 +75,7 @@ After you pressed "Start Swarming" you should see load test is started and reque
 
 ![]({{ site.baseurl }}/assets\post_assets\locust\locust2.png)
 
-![]({{ site.baseurl }}./assets\post_assets\locust\locust3.png)
+![]({{ site.baseurl }}/assets\post_assets\locust\locust3.png)
 
 ## Conclusion
 
