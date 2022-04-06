@@ -186,10 +186,10 @@ public void XDocumentBigXml()
 ---
 |            Method |         Mean |        Error |       StdDev |      Gen 0 |      Gen 1 |     Gen 2 |    Allocated |
 |------------------ |-------------:|-------------:|-------------:|-----------:|-----------:|----------:|-------------:|
-| XDocumentSmallXml |   1,048.7 us |     12.90 us |     11.43 us |   332.0313 |   332.0313 |  332.0313 |   1937.26 KB |
-| XmlReaderSmallXml |     437.2 us |      2.63 us |      2.46 us |     7.8125 |     0.4883 |         - |     37.55 KB |
-|   XmlReaderBigXml | 163,757.6 us |  2,802.65 us |  2,484.48 us |          - |          - |         - |    608.04 KB |
-|   XDocumentBigXml | 923,778.1 us | 17,583.96 us | 16,448.05 us | 53000.0000 | 21000.0000 | 6000.0000 | 397730.95 KB |
+| XDocumentSmallXml |   1,048.7 μs |     12.90 μs |     11.43 μs |   332.0313 |   332.0313 |  332.0313 |   1937.26 KB |
+| XmlReaderSmallXml |     437.2 μs |      2.63 μs |      2.46 μs |     7.8125 |     0.4883 |         - |     37.55 KB |
+|   XmlReaderBigXml | 163,757.6 μs |  2,802.65 μs |  2,484.48 μs |          - |          - |         - |    608.04 KB |
+|   XDocumentBigXml | 923,778.1 μs | 17,583.96 μs | 16,448.05 μs | 53000.0000 | 21000.0000 | 6000.0000 | 397730.95 KB |
 
 As you can see from results ``XmlReader`` class go to if you are reading/parsing big files. However, there are many points that can be improved in benchmark code. For the ``XDocument`` instead of using ``Max`` method we could use aggregate method built in LINQ. I will leave that to you because we are learning together. 
 
