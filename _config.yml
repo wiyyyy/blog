@@ -6,8 +6,6 @@ author:
 
 baseurl: /myblog
 
-markdown: GFM
-
 source: .
 destination: ./_site
 permalink: /:title
