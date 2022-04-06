@@ -6,6 +6,8 @@ author:
 
 baseurl: /myblog
 
+markdown: kramdown
+
 source: .
 destination: ./_site
 permalink: /:title
