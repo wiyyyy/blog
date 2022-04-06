@@ -6,7 +6,7 @@ author:
 
 baseurl: /myblog
 
-markdown: kramdown
+markdown: GFM
 
 source: .
 destination: ./_site
