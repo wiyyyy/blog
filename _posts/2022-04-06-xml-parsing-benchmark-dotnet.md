@@ -200,7 +200,7 @@ For the small sized XML files if the performance is not must for you can use ``X
 ## Conclusion
 We investigated different XML parsing methods available in .NET and looked their performance in different circumstances. As I mentioned there is no silver bullet for parsing but different approaches for different needs. 
 
-Feel free to reach me out if you have any questions about this topic. Also let me know if you have another comparisions for XML parsing as well. 
+Feel free to reach me out if you have any questions about this topic. Also let me know if you have another comparisons for XML parsing as well. 
 
 
 ## References
